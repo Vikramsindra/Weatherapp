@@ -40,17 +40,17 @@ https://weatherapp-3bm0.onrender.com/
 ---
 
 ## 📂 Project Structure
-Weatherapp/
-├── public/
-├── src/
-│ ├── components/
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md  
+Weatherapp/<br>
+├── public/<br>
+├── src/<br>
+│ ├── components/<br>
+│ ├── App.jsx<br>
+│ ├── main.jsx<br>
+│ └── index.css<br>
+├── index.html<br>
+├── package.json<br>
+├── vite.config.js<br>
+└── README.md  <br>
 
 
 ---
